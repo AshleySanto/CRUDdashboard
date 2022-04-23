@@ -1,1 +1,13 @@
 # CRUDdashboard
+
+**_How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?_**
+
+You write programs that are maintainable, readable and adaptable by making sure to use industry best coding practices with proper commenting and whitespace as well as separting files to make it easier to adapt to other projects. For instance, with this project, I can reuse my CRUD python module for other projects if I wanted to. All I would have to do is either copy the code or reference the file. It makes it easier to adapt the code and maintain it for future assignments such as going through multiple databases rather than just this specific one.
+
+**_How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?_**
+
+To approach problems, I really like to break it down into steps so it doesn't become overwhelming. For this project, I read through the instructions and then went through the requirements Grazioso requested taking notes on what I needed to include. I don't think my approach really differed much from other assignments as I usually try to do everything in smaller parts. I would definitely implement some kind of CRUD module similar to the one we created. It simplified adding, searching and reading files within the database. 
+
+**_What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?_**
+
+Computer scientists use technology to solve a problem. This could be a range of different issues and solutions. It matters because it benefits society as a whole when some of the major problems are solved. Because of them, we have faster communication, automation, health solutions, and more. This project would help a company because it would make it easier for them to have control over what they're looking for or adding to their own database. A database in MongoDB isn't user friendly for the every day person and this type of works simplifies the process for them while making it more user friendly and efficient for what they are doing.
